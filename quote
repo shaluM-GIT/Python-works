@@ -1,0 +1,9 @@
+string_double = "This is Inceptez's 'Python' class for Data Engineers & AI Engineers"
+print(string_double)
+string_single = 'This is Inceptez\'s "Python" class for Data Engineers & AI Engineers'
+print(string_single)
+string_triple = """This is Inceptez's "Python" class for Data Engineers & AI Engineers"""
+print(string_triple)
+welcome_message = """Welcome to Inceptez Technologies!
+Python Training: Basics
+Enjoy your learning journey."""
